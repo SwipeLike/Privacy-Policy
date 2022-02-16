@@ -15,7 +15,7 @@ Admob - https://support.google.com/admob/answer/6128543?hl=en <br>
 In addition to the above service providers, SwipeLike may link the user to other services or sites for app functionality. 
 Please take notice of the respective privacy policies, linked above, as well as the privacy policies of any services or sites linked to by the SwipeLike app.
 By choosing to use the SwipeLike app, you agree to have read, understood and accepted the terms laid out in the privacy policies linked above.
-SwipeLike can not be held responsible for any damages or losses caused by the use of the above services in .
+SwipeLike can not be held responsible for any damages or losses caused by the use of the above services or the SwipeLike app in general.
  
  
 **App Permissions**\
