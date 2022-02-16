@@ -9,9 +9,9 @@ This page is used to inform visitors regarding the policies regarding the collec
  
 **Information Collection and Use**\
 For a better experience, while using our app, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by us in any way.
-The SwipeLike app uses these third-party services that may collect personal information used to identify you:
-Google Play Services - https://policies.google.com/privacy 
-Admob - https://support.google.com/admob/answer/6128543?hl=en 
+The SwipeLike app uses these third-party services that may collect personal information used to identify you: <br>
+Google Play Services - https://policies.google.com/privacy <br>
+Admob - https://support.google.com/admob/answer/6128543?hl=en <br>
 In addition to the above service providers, SwipeLike may link the user to other services or sites for app functionality. 
 Please take notice of the respective privacy policies, linked above, as well as the privacy policies of any services or sites linked to by the SwipeLike app.
 By choosing to use the SwipeLike app, you agree to have read, understood and accepted the terms laid out in the privacy policies linked above.
@@ -55,8 +55,7 @@ The app stores all data locally on the device. As such, concerns about data leak
  
  
 **Affiliations**\
-Neither this app nor the developer are affiliated with, or endorsed by, Tiktok, Instagram, Facebook, or Meta and any subsidiaries thereof. The developer is not liable for any damages or losses accrued during or due to the use of the app, including but not limited to, banning or restriction of accounts on other platforms and loss of earnings.
- 
+Neither this app nor the developer are affiliated with, or endorsed by, Tiktok, Instagram, Facebook, or Meta and any subsidiaries thereof. The developer is not liable for any damages or losses accrued during or due to the use of the app, including but not limited to, banning or restriction of accounts on other platforms and loss of earnings.<br>
 The app may include affiliate links to ads, products or services provided by third-parties. 
  
  
